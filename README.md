@@ -1,0 +1,2 @@
+# angularclass
+class
