@@ -18,6 +18,8 @@ export class UsersComponentComponent implements OnInit {
   public varbleList: string = "hiii welcome";
   value1 :any;
  test2: string = "bye";
+  test: string = "hi";
+
   textFromParent: string = "Hi iam from parent";
   twoWayData: string="hi";
   cursor: string = "cursor";
